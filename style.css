@@ -1,7 +1,19 @@
-h1 {
-    color: purple;
+header {
+    text-align: center;
 }
 
+header h1 {
+    color: #cc0000;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 96px;
+    margin: auto;
+}
+
+
 body {
-    background-color: #ffeefa;
+    background-color: #fff0fa;
+}
+
+main {
+    font-family: sans-serif
 }
