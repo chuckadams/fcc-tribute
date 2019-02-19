@@ -2,18 +2,25 @@ header {
     text-align: center;
 }
 
-header h1 {
+body {
+    background-color: #fff0fa;
+    font-family: sans-serif
+}
+
+footer {
+    text-align: center;
+}
+
+#title {
     color: #cc0000;
     font-family: 'Permanent Marker', cursive;
     font-size: 96px;
     margin: auto;
 }
 
-
-body {
-    background-color: #fff0fa;
-}
-
-main {
-    font-family: sans-serif
+#image {
+    width: 75vw;
+    display: block;
+    margin: auto;
+    max-width: 420px;
 }
